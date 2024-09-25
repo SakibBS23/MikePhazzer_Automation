@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SpecFlowBDDFramework
-build_property.ProjectDir = C:\Users\BS981\OneDrive - Brain Station 23 Ltd\Learning\Selenium - CS\SpecFlowBDDFramework\
+build_property.ProjectDir = C:\Users\BS-Test\OneDrive - Brain Station 23 PLC\Desktop\Phazzer Automation\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

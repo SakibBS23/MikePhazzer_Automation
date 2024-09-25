@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BS981\\OneDrive - Brain Station 23 Ltd\\Learning\\Selenium - CS\\SpecFlowBDDFramework\\SpecFlowBDDFramework.csproj": {}
+    "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\SpecFlowBDDFramework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BS981\\OneDrive - Brain Station 23 Ltd\\Learning\\Selenium - CS\\SpecFlowBDDFramework\\SpecFlowBDDFramework.csproj": {
+    "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\SpecFlowBDDFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BS981\\OneDrive - Brain Station 23 Ltd\\Learning\\Selenium - CS\\SpecFlowBDDFramework\\SpecFlowBDDFramework.csproj",
+        "projectUniqueName": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\SpecFlowBDDFramework.csproj",
         "projectName": "SpecFlowBDDFramework",
-        "projectPath": "C:\\Users\\BS981\\OneDrive - Brain Station 23 Ltd\\Learning\\Selenium - CS\\SpecFlowBDDFramework\\SpecFlowBDDFramework.csproj",
-        "packagesPath": "C:\\Users\\BS981\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BS981\\OneDrive - Brain Station 23 Ltd\\Learning\\Selenium - CS\\SpecFlowBDDFramework\\obj\\",
+        "projectPath": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\SpecFlowBDDFramework.csproj",
+        "packagesPath": "C:\\Users\\BS-Test\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\BS981\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BS-Test\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,9 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nccoit.pkgs.visualstudio.com/_packaging/ncco-nuget/nuget/v3/index.json": {},
-          "https://nccoit.visualstudio.com/DepartmentPlanning/_artifacts/feed/ncco-nuget": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -36,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -65,6 +68,10 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.21.0, )"
             },
             "Selenium.WebDriver": {
               "target": "Package",
@@ -98,26 +105,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.30, 6.0.30]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.30, 6.0.30]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.30, 6.0.30]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.316\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

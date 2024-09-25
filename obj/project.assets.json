@@ -1963,6 +1963,22 @@
           }
         }
       },
+      "Selenium.Support/4.21.0": {
+        "type": "package",
+        "dependencies": {
+          "Selenium.WebDriver": "4.21.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/WebDriver.Support.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/WebDriver.Support.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Selenium.WebDriver/4.21.0": {
         "type": "package",
         "dependencies": {
@@ -5917,6 +5933,20 @@
         "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
         "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.nuspec",
         "runtimes/ubuntu.16.10-x64/native/System.Security.Cryptography.Native.OpenSsl.so"
+      ]
+    },
+    "Selenium.Support/4.21.0": {
+      "sha512": "MiDIsB/5Ki1AWua/b9v/eGARtI6bxseAt4EOl2fgl7WsoXlV7Zzq5/gGJ7Zs9PLvJUQMbS6WSNWuMdeSr1SXdA==",
+      "type": "package",
+      "path": "selenium.support/4.21.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/netstandard2.0/WebDriver.Support.dll",
+        "lib/netstandard2.0/WebDriver.Support.xml",
+        "selenium.support.4.21.0.nupkg.sha512",
+        "selenium.support.nuspec"
       ]
     },
     "Selenium.WebDriver/4.21.0": {
@@ -11255,6 +11285,7 @@
       "Microsoft.NET.Test.Sdk >= 17.9.0",
       "NUnit3TestAdapter >= 4.5.0",
       "Newtonsoft.Json >= 13.0.3",
+      "Selenium.Support >= 4.21.0",
       "Selenium.WebDriver >= 4.21.0",
       "SpecFlow.NUnit >= 3.9.74",
       "SpecFlow.Plus.LivingDocPlugin >= 3.9.57",
@@ -11263,19 +11294,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\BS981\\.nuget\\packages\\": {}
+    "C:\\Users\\BS-Test\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BS981\\OneDrive - Brain Station 23 Ltd\\Learning\\Selenium - CS\\SpecFlowBDDFramework\\SpecFlowBDDFramework.csproj",
+      "projectUniqueName": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\SpecFlowBDDFramework.csproj",
       "projectName": "SpecFlowBDDFramework",
-      "projectPath": "C:\\Users\\BS981\\OneDrive - Brain Station 23 Ltd\\Learning\\Selenium - CS\\SpecFlowBDDFramework\\SpecFlowBDDFramework.csproj",
-      "packagesPath": "C:\\Users\\BS981\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BS981\\OneDrive - Brain Station 23 Ltd\\Learning\\Selenium - CS\\SpecFlowBDDFramework\\obj\\",
+      "projectPath": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\SpecFlowBDDFramework.csproj",
+      "packagesPath": "C:\\Users\\BS-Test\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\BS981\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\BS-Test\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11283,9 +11314,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nccoit.pkgs.visualstudio.com/_packaging/ncco-nuget/nuget/v3/index.json": {},
-        "https://nccoit.visualstudio.com/DepartmentPlanning/_artifacts/feed/ncco-nuget": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -11297,6 +11326,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -11326,6 +11360,10 @@
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "[13.0.3, )"
+          },
+          "Selenium.Support": {
+            "target": "Package",
+            "version": "[4.21.0, )"
           },
           "Selenium.WebDriver": {
             "target": "Package",
@@ -11359,27 +11397,25 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.30, 6.0.30]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.30, 6.0.30]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.30, 6.0.30]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.316\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Text.Json' 8.0.3 has a known high severity vulnerability, https://github.com/advisories/GHSA-hh2w-p6rv-4g7w",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

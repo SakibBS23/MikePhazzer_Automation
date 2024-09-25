@@ -44,7 +44,7 @@ namespace SpecFlowBDDFramework.Support
 			
 			string _jsonFilePath = Path.Combine(rootPath, jsonFilePath);
 			Console.WriteLine(_jsonFilePath);
-			excelReader.CreateSheet
+			//excelReader.CreateSheet
 			try
 			{
 				Person person = JSONFileReader.ReadJsonFile<Person>(_jsonFilePath);
