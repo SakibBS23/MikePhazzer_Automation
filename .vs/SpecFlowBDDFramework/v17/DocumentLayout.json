@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|c:\\users\\bs-test\\onedrive - brain station 23 plc\\desktop\\phazzer automation\\testdata\\supplierregistration.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|solutionrelative:testdata\\supplierregistration.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|c:\\users\\bs-test\\onedrive - brain station 23 plc\\desktop\\phazzer automation\\testdata\\lawenforcementregistration.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|solutionrelative:testdata\\lawenforcementregistration.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|c:\\users\\bs-test\\onedrive - brain station 23 plc\\desktop\\phazzer automation\\testdata\\suppliermyproductdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|solutionrelative:testdata\\suppliermyproductdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|c:\\users\\bs-test\\onedrive - brain station 23 plc\\desktop\\phazzer automation\\stepdefinitions\\lawenforcementregstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|solutionrelative:stepdefinitions\\lawenforcementregstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|c:\\users\\bs-test\\onedrive - brain station 23 plc\\desktop\\phazzer automation\\pages\\lawenforcementregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|solutionrelative:pages\\lawenforcementregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|c:\\users\\bs-test\\onedrive - brain station 23 plc\\desktop\\phazzer automation\\model\\lawenforcementregistrationadditemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|solutionrelative:model\\lawenforcementregistrationadditemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|c:\\users\\bs-test\\onedrive - brain station 23 plc\\desktop\\phazzer automation\\model\\supplierregistrationadditemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|solutionrelative:model\\supplierregistrationadditemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|c:\\users\\bs-test\\onedrive - brain station 23 plc\\desktop\\phazzer automation\\pages\\supplierregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,24 +35,44 @@
       "RelativeMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|solutionrelative:stepdefinitions\\supplierstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|c:\\users\\bs-test\\onedrive - brain station 23 plc\\desktop\\phazzer automation\\features\\supplier.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|solutionrelative:features\\supplier.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|c:\\users\\bs-test\\onedrive - brain station 23 plc\\desktop\\phazzer automation\\stepdefinitions\\adminapprovestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|solutionrelative:stepdefinitions\\adminapprovestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|c:\\users\\bs-test\\onedrive - brain station 23 plc\\desktop\\phazzer automation\\features\\supplierlogin.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|solutionrelative:features\\supplierlogin.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|c:\\users\\bs-test\\onedrive - brain station 23 plc\\desktop\\phazzer automation\\model\\supplierregistrationadditemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|solutionrelative:model\\supplierregistrationadditemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|c:\\users\\bs-test\\onedrive - brain station 23 plc\\desktop\\phazzer automation\\testdata\\supplierregistration.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|solutionrelative:testdata\\supplierregistration.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|c:\\users\\bs-test\\onedrive - brain station 23 plc\\desktop\\phazzer automation\\stepdefinitions\\supplierloginstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|solutionrelative:stepdefinitions\\supplierloginstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|c:\\users\\bs-test\\onedrive - brain station 23 plc\\desktop\\phazzer automation\\stepdefinitions\\adminapprovestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|solutionrelative:stepdefinitions\\adminapprovestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|c:\\users\\bs-test\\onedrive - brain station 23 plc\\desktop\\phazzer automation\\pages\\suppliermyproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|solutionrelative:pages\\suppliermyproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|c:\\users\\bs-test\\onedrive - brain station 23 plc\\desktop\\phazzer automation\\features\\lawenforcementreg.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|solutionrelative:features\\lawenforcementreg.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|c:\\users\\bs-test\\onedrive - brain station 23 plc\\desktop\\phazzer automation\\model\\suppliermyproductadditemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|solutionrelative:model\\suppliermyproductadditemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|c:\\users\\bs-test\\onedrive - brain station 23 plc\\desktop\\phazzer automation\\features\\supplier-myproduct.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|solutionrelative:features\\supplier-myproduct.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|c:\\users\\bs-test\\onedrive - brain station 23 plc\\desktop\\phazzer automation\\stepdefinitions\\supplier_myproductstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|solutionrelative:stepdefinitions\\supplier_myproductstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|c:\\users\\bs-test\\onedrive - brain station 23 plc\\desktop\\phazzer automation\\features\\supplier.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|solutionrelative:features\\supplier.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|c:\\users\\bs-test\\onedrive - brain station 23 plc\\desktop\\phazzer automation\\features\\supplierlogin.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|solutionrelative:features\\supplierlogin.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43C40598-9AB6-46A7-89A8-CE0C9BC0EE40}|SpecFlowBDDFramework.csproj|c:\\users\\bs-test\\onedrive - brain station 23 plc\\desktop\\phazzer automation\\appconfig\\config\\dev.properties||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -75,7 +115,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -83,67 +123,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Supplier.feature",
-              "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\Features\\Supplier.feature",
-              "RelativeDocumentMoniker": "Features\\Supplier.feature",
-              "ToolTip": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\Features\\Supplier.feature",
-              "RelativeToolTip": "Features\\Supplier.feature",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQWSURBVDhPdVRLb1tFFP7mPnztaydObOcJcWolhDRpVURQAyWNWgItsGlZ0YoFEgseKxCCFWv4AWzYIxAgQVRVlSo1En1IoDRtSUEpRFWUd9I4DztOff269r18c\u002B0oSRGf9dkzZ2Y\u002BnznnzBH4P3zRGMARXxtHcbKZdMg1uFjCVCmJr9IFzg/Cdd2Dgm\u002BQnylBTISH0Kydhakco0WKGXKZKFDwEfLOJObLV/BN5h42nXxtzYNa\u002BwVeNBScNRPoMs5BNd6FppwUEM8qQmlz4UYBEVGFGhNCtLo6vW5UutGglNDvS8GvZLFc9mT2BF8zWzFgjiCjvwdXDAc1M9JX36MnQp0ia\u002BfQZrbgWEOf8KuGb7OYikARXYjrIXTrj7DjJHG/VJQyVcGYIvC8McwNFzkbUaCorf5mXIifx\u002BmWE1jMrWAwOoC34\u002BcYJuBu\u002Bk95SiEPkRmslZcZglVYrmcEPgqbGPSf4ui04F/XayHYbhl\u002BNYBOM46j4T6ciL2AOtrLtO\u002BDTp7BkH8IH4c9g\u002BZ9G6IPmkj4FX/ombqE\u002BLT3Q6zk1rBgLeO3jdtYyK9gPrcIh\u002B7NZhe8I8RuQp/msJszxhlbVQ\u002BBLrKpgopquzbXBNoDLUjbGUykJykyjzup\u002BxjfuoclXv8JBJj5ZhYVhatxkIiQpu2UsVFMYWLzDyQLG8iWLY9WOYd0aRu2U0LMiKA7lEDMFwWzXj0NBMmYHOwKepCeyW8Zv216Z9kWr\u002BlwEyPLT6PRgJebjuNi51s42TQIkzGuQep44dsVXCctUwugP9yDT3rex6stwzgUiiOshRHW6xE1GuEXfnQE2vFm6wj3fIAIbTXI4k7LQdXnVwIKIuoAX87hfKUokoV13FwfR4f5FE41vQSfZuB49DnPq8cMwZXVa5hgTKcy0yg5JabdHUfaGcWveavq4c38Iubsv1kSy\u002BvFTVxekQcmIT3ua\u002BiBrugIqkGWz2Hv6tfXf8fY2g0vtsQyZu0ZaqTkpOrhbLmIuOZHlx7lM0sUnILuU3TRHmhFzsnhFr3N2DsIaUHMsXymMv\u002BAe1jisijdG7hTuopfrIdSaq85vBOqxxnzdejic1r7afGxLoWqKEJ6ItPiU31MUoXZtinmdZ8k7/wlruV/xvfZDSmz95YXyzYsZw1HjQc8LYu0oeJWZCnVEud6YrTJiRTLkF/jp\u002BxVjLHyi/JR7heUhu1KgcHdRK8xx5UZWmXm5PNqkltqkE3gIUrudxQbxe3CHFIs0Br2BCUsiiYZT00sMUnzvOUOGlVZG0dImYElchxblcu4lR/FWG4GKdfrMrs4KCghl/8quWxHWTbZAnp9IVpkV5nmta/zBj/ibukSvn28yr3e/ffjYMd\u002BEhfqwjgf7OConZyGqCRxKVfED5a3/F8A/wKUXZtBUQWfiQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-09-23T09:12:00.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SupplierRegistration.json",
-              "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\TestData\\SupplierRegistration.json",
-              "RelativeDocumentMoniker": "TestData\\SupplierRegistration.json",
-              "ToolTip": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\TestData\\SupplierRegistration.json",
-              "RelativeToolTip": "TestData\\SupplierRegistration.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-23T10:36:58.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SupplierRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\Pages\\SupplierRegistration.cs",
-              "RelativeDocumentMoniker": "Pages\\SupplierRegistration.cs",
-              "ToolTip": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\Pages\\SupplierRegistration.cs",
-              "RelativeToolTip": "Pages\\SupplierRegistration.cs",
-              "ViewState": "AQIAAM4AAAAAAAAAAAAiwNcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T10:04:16.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SupplierStepDefinitions.cs",
-              "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\StepDefinitions\\SupplierStepDefinitions.cs",
-              "RelativeDocumentMoniker": "StepDefinitions\\SupplierStepDefinitions.cs",
-              "ToolTip": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\StepDefinitions\\SupplierStepDefinitions.cs",
-              "RelativeToolTip": "StepDefinitions\\SupplierStepDefinitions.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAA9wCUAAAAfAAAA",
+              "Title": "LawEnforcementRegStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\StepDefinitions\\LawEnforcementRegStepDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\LawEnforcementRegStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\StepDefinitions\\LawEnforcementRegStepDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\LawEnforcementRegStepDefinitions.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAswLoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T09:13:51.268Z",
+              "WhenOpened": "2024-09-27T08:40:07.228Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "SupplierLogin.feature",
-              "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\Features\\SupplierLogin.feature",
-              "RelativeDocumentMoniker": "Features\\SupplierLogin.feature",
-              "ToolTip": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\Features\\SupplierLogin.feature",
-              "RelativeToolTip": "Features\\SupplierLogin.feature",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQWSURBVDhPdVRLb1tFFP7mPnztaydObOcJcWolhDRpVURQAyWNWgItsGlZ0YoFEgseKxCCFWv4AWzYIxAgQVRVlSo1En1IoDRtSUEpRFWUd9I4DztOff269r18c\u002B0oSRGf9dkzZ2Y\u002BnznnzBH4P3zRGMARXxtHcbKZdMg1uFjCVCmJr9IFzg/Cdd2Dgm\u002BQnylBTISH0Kydhakco0WKGXKZKFDwEfLOJObLV/BN5h42nXxtzYNa\u002BwVeNBScNRPoMs5BNd6FppwUEM8qQmlz4UYBEVGFGhNCtLo6vW5UutGglNDvS8GvZLFc9mT2BF8zWzFgjiCjvwdXDAc1M9JX36MnQp0ia\u002BfQZrbgWEOf8KuGb7OYikARXYjrIXTrj7DjJHG/VJQyVcGYIvC8McwNFzkbUaCorf5mXIifx\u002BmWE1jMrWAwOoC34\u002BcYJuBu\u002Bk95SiEPkRmslZcZglVYrmcEPgqbGPSf4ui04F/XayHYbhl\u002BNYBOM46j4T6ciL2AOtrLtO\u002BDTp7BkH8IH4c9g\u002BZ9G6IPmkj4FX/ombqE\u002BLT3Q6zk1rBgLeO3jdtYyK9gPrcIh\u002B7NZhe8I8RuQp/msJszxhlbVQ\u002BBLrKpgopquzbXBNoDLUjbGUykJykyjzup\u002BxjfuoclXv8JBJj5ZhYVhatxkIiQpu2UsVFMYWLzDyQLG8iWLY9WOYd0aRu2U0LMiKA7lEDMFwWzXj0NBMmYHOwKepCeyW8Zv216Z9kWr\u002BlwEyPLT6PRgJebjuNi51s42TQIkzGuQep44dsVXCctUwugP9yDT3rex6stwzgUiiOshRHW6xE1GuEXfnQE2vFm6wj3fIAIbTXI4k7LQdXnVwIKIuoAX87hfKUokoV13FwfR4f5FE41vQSfZuB49DnPq8cMwZXVa5hgTKcy0yg5JabdHUfaGcWveavq4c38Iubsv1kSy\u002BvFTVxekQcmIT3ua\u002BiBrugIqkGWz2Hv6tfXf8fY2g0vtsQyZu0ZaqTkpOrhbLmIuOZHlx7lM0sUnILuU3TRHmhFzsnhFr3N2DsIaUHMsXymMv\u002BAe1jisijdG7hTuopfrIdSaq85vBOqxxnzdejic1r7afGxLoWqKEJ6ItPiU31MUoXZtinmdZ8k7/wlruV/xvfZDSmz95YXyzYsZw1HjQc8LYu0oeJWZCnVEud6YrTJiRTLkF/jp\u002BxVjLHyi/JR7heUhu1KgcHdRK8xx5UZWmXm5PNqkltqkE3gIUrudxQbxe3CHFIs0Br2BCUsiiYZT00sMUnzvOUOGlVZG0dImYElchxblcu4lR/FWG4GKdfrMrs4KCghl/8quWxHWTbZAnp9IVpkV5nmta/zBj/ibukSvn28yr3e/ffjYMd\u002BEhfqwjgf7OConZyGqCRxKVfED5a3/F8A/wKUXZtBUQWfiQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-09-24T12:54:52.514Z",
+              "Title": "LawEnforcementRegistrationAddItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\Model\\LawEnforcementRegistrationAddItemModel.cs",
+              "RelativeDocumentMoniker": "Model\\LawEnforcementRegistrationAddItemModel.cs",
+              "ToolTip": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\Model\\LawEnforcementRegistrationAddItemModel.cs",
+              "RelativeToolTip": "Model\\LawEnforcementRegistrationAddItemModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:41:06.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LawEnforcementRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\Pages\\LawEnforcementRegistration.cs",
+              "RelativeDocumentMoniker": "Pages\\LawEnforcementRegistration.cs",
+              "ToolTip": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\Pages\\LawEnforcementRegistration.cs",
+              "RelativeToolTip": "Pages\\LawEnforcementRegistration.cs",
+              "ViewState": "AQIAAPwAAAAAAAAAAAAUwAkBAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:41:52.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LawEnforcementRegistration.json",
+              "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\TestData\\LawEnforcementRegistration.json",
+              "RelativeDocumentMoniker": "TestData\\LawEnforcementRegistration.json",
+              "ToolTip": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\TestData\\LawEnforcementRegistration.json",
+              "RelativeToolTip": "TestData\\LawEnforcementRegistration.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-27T09:24:47.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SupplierMyProductData.json",
+              "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\TestData\\SupplierMyProductData.json",
+              "RelativeDocumentMoniker": "TestData\\SupplierMyProductData.json",
+              "ToolTip": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\TestData\\SupplierMyProductData.json",
+              "RelativeToolTip": "TestData\\SupplierMyProductData.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T09:49:37.107Z",
               "EditorCaption": ""
             },
             {
@@ -154,7 +194,7 @@
               "RelativeDocumentMoniker": "Model\\SupplierRegistrationAddItemModel.cs",
               "ToolTip": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\Model\\SupplierRegistrationAddItemModel.cs",
               "RelativeToolTip": "Model\\SupplierRegistrationAddItemModel.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAzwB0AAAApAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwBwAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T09:27:38.778Z",
               "EditorCaption": ""
@@ -162,19 +202,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "SupplierLoginStepDefinitions.cs",
-              "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\StepDefinitions\\SupplierLoginStepDefinitions.cs",
-              "RelativeDocumentMoniker": "StepDefinitions\\SupplierLoginStepDefinitions.cs",
-              "ToolTip": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\StepDefinitions\\SupplierLoginStepDefinitions.cs",
-              "RelativeToolTip": "StepDefinitions\\SupplierLoginStepDefinitions.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAkwDAAAAAhAAAA",
+              "Title": "SupplierRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\Pages\\SupplierRegistration.cs",
+              "RelativeDocumentMoniker": "Pages\\SupplierRegistration.cs",
+              "ToolTip": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\Pages\\SupplierRegistration.cs",
+              "RelativeToolTip": "Pages\\SupplierRegistration.cs",
+              "ViewState": "AQIAAPoAAAAAAAAAAAA+wAQBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T12:57:46.904Z",
+              "WhenOpened": "2024-09-23T10:04:16.27Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "SupplierStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\StepDefinitions\\SupplierStepDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\SupplierStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\StepDefinitions\\SupplierStepDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\SupplierStepDefinitions.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAUwLEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:13:51.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AdminApproveStepDefinitions.cs",
               "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\StepDefinitions\\AdminApproveStepDefinitions.cs",
               "RelativeDocumentMoniker": "StepDefinitions\\AdminApproveStepDefinitions.cs",
@@ -187,7 +240,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
+              "Title": "SupplierRegistration.json",
+              "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\TestData\\SupplierRegistration.json",
+              "RelativeDocumentMoniker": "TestData\\SupplierRegistration.json",
+              "ToolTip": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\TestData\\SupplierRegistration.json",
+              "RelativeToolTip": "TestData\\SupplierRegistration.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T10:36:58.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SupplierLoginStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\StepDefinitions\\SupplierLoginStepDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\SupplierLoginStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\StepDefinitions\\SupplierLoginStepDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\SupplierLoginStepDefinitions.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwDAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:57:46.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LawEnforcementReg.feature",
+              "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\Features\\LawEnforcementReg.feature",
+              "RelativeDocumentMoniker": "Features\\LawEnforcementReg.feature",
+              "ToolTip": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\Features\\LawEnforcementReg.feature",
+              "RelativeToolTip": "Features\\LawEnforcementReg.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQWSURBVDhPdVRLb1tFFP7mPnztaydObOcJcWolhDRpVURQAyWNWgItsGlZ0YoFEgseKxCCFWv4AWzYIxAgQVRVlSo1En1IoDRtSUEpRFWUd9I4DztOff269r18c\u002B0oSRGf9dkzZ2Y\u002BnznnzBH4P3zRGMARXxtHcbKZdMg1uFjCVCmJr9IFzg/Cdd2Dgm\u002BQnylBTISH0Kydhakco0WKGXKZKFDwEfLOJObLV/BN5h42nXxtzYNa\u002BwVeNBScNRPoMs5BNd6FppwUEM8qQmlz4UYBEVGFGhNCtLo6vW5UutGglNDvS8GvZLFc9mT2BF8zWzFgjiCjvwdXDAc1M9JX36MnQp0ia\u002BfQZrbgWEOf8KuGb7OYikARXYjrIXTrj7DjJHG/VJQyVcGYIvC8McwNFzkbUaCorf5mXIifx\u002BmWE1jMrWAwOoC34\u002BcYJuBu\u002Bk95SiEPkRmslZcZglVYrmcEPgqbGPSf4ui04F/XayHYbhl\u002BNYBOM46j4T6ciL2AOtrLtO\u002BDTp7BkH8IH4c9g\u002BZ9G6IPmkj4FX/ombqE\u002BLT3Q6zk1rBgLeO3jdtYyK9gPrcIh\u002B7NZhe8I8RuQp/msJszxhlbVQ\u002BBLrKpgopquzbXBNoDLUjbGUykJykyjzup\u002BxjfuoclXv8JBJj5ZhYVhatxkIiQpu2UsVFMYWLzDyQLG8iWLY9WOYd0aRu2U0LMiKA7lEDMFwWzXj0NBMmYHOwKepCeyW8Zv216Z9kWr\u002BlwEyPLT6PRgJebjuNi51s42TQIkzGuQep44dsVXCctUwugP9yDT3rex6stwzgUiiOshRHW6xE1GuEXfnQE2vFm6wj3fIAIbTXI4k7LQdXnVwIKIuoAX87hfKUokoV13FwfR4f5FE41vQSfZuB49DnPq8cMwZXVa5hgTKcy0yg5JabdHUfaGcWveavq4c38Iubsv1kSy\u002BvFTVxekQcmIT3ua\u002BiBrugIqkGWz2Hv6tfXf8fY2g0vtsQyZu0ZaqTkpOrhbLmIuOZHlx7lM0sUnILuU3TRHmhFzsnhFr3N2DsIaUHMsXymMv\u002BAe1jisijdG7hTuopfrIdSaq85vBOqxxnzdejic1r7afGxLoWqKEJ6ItPiU31MUoXZtinmdZ8k7/wlruV/xvfZDSmz95YXyzYsZw1HjQc8LYu0oeJWZCnVEud6YrTJiRTLkF/jp\u002BxVjLHyi/JR7heUhu1KgcHdRK8xx5UZWmXm5PNqkltqkE3gIUrudxQbxe3CHFIs0Br2BCUsiiYZT00sMUnzvOUOGlVZG0dImYElchxblcu4lR/FWG4GKdfrMrs4KCghl/8quWxHWTbZAnp9IVpkV5nmta/zBj/ibukSvn28yr3e/ffjYMd\u002BEhfqwjgf7OConZyGqCRxKVfED5a3/F8A/wKUXZtBUQWfiQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-27T08:36:15.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SupplierMyproduct.cs",
+              "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\Pages\\SupplierMyproduct.cs",
+              "RelativeDocumentMoniker": "Pages\\SupplierMyproduct.cs",
+              "ToolTip": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\Pages\\SupplierMyproduct.cs",
+              "RelativeToolTip": "Pages\\SupplierMyproduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:48:16.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Supplier_MyProductStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\StepDefinitions\\Supplier_MyProductStepDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\Supplier_MyProductStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\StepDefinitions\\Supplier_MyProductStepDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\Supplier_MyProductStepDefinitions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:42:20.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Supplier-MyProduct.feature",
+              "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\Features\\Supplier-MyProduct.feature",
+              "RelativeDocumentMoniker": "Features\\Supplier-MyProduct.feature",
+              "ToolTip": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\Features\\Supplier-MyProduct.feature",
+              "RelativeToolTip": "Features\\Supplier-MyProduct.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA1AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQWSURBVDhPdVRLb1tFFP7mPnztaydObOcJcWolhDRpVURQAyWNWgItsGlZ0YoFEgseKxCCFWv4AWzYIxAgQVRVlSo1En1IoDRtSUEpRFWUd9I4DztOff269r18c\u002B0oSRGf9dkzZ2Y\u002BnznnzBH4P3zRGMARXxtHcbKZdMg1uFjCVCmJr9IFzg/Cdd2Dgm\u002BQnylBTISH0Kydhakco0WKGXKZKFDwEfLOJObLV/BN5h42nXxtzYNa\u002BwVeNBScNRPoMs5BNd6FppwUEM8qQmlz4UYBEVGFGhNCtLo6vW5UutGglNDvS8GvZLFc9mT2BF8zWzFgjiCjvwdXDAc1M9JX36MnQp0ia\u002BfQZrbgWEOf8KuGb7OYikARXYjrIXTrj7DjJHG/VJQyVcGYIvC8McwNFzkbUaCorf5mXIifx\u002BmWE1jMrWAwOoC34\u002BcYJuBu\u002Bk95SiEPkRmslZcZglVYrmcEPgqbGPSf4ui04F/XayHYbhl\u002BNYBOM46j4T6ciL2AOtrLtO\u002BDTp7BkH8IH4c9g\u002BZ9G6IPmkj4FX/ombqE\u002BLT3Q6zk1rBgLeO3jdtYyK9gPrcIh\u002B7NZhe8I8RuQp/msJszxhlbVQ\u002BBLrKpgopquzbXBNoDLUjbGUykJykyjzup\u002BxjfuoclXv8JBJj5ZhYVhatxkIiQpu2UsVFMYWLzDyQLG8iWLY9WOYd0aRu2U0LMiKA7lEDMFwWzXj0NBMmYHOwKepCeyW8Zv216Z9kWr\u002BlwEyPLT6PRgJebjuNi51s42TQIkzGuQep44dsVXCctUwugP9yDT3rex6stwzgUiiOshRHW6xE1GuEXfnQE2vFm6wj3fIAIbTXI4k7LQdXnVwIKIuoAX87hfKUokoV13FwfR4f5FE41vQSfZuB49DnPq8cMwZXVa5hgTKcy0yg5JabdHUfaGcWveavq4c38Iubsv1kSy\u002BvFTVxekQcmIT3ua\u002BiBrugIqkGWz2Hv6tfXf8fY2g0vtsQyZu0ZaqTkpOrhbLmIuOZHlx7lM0sUnILuU3TRHmhFzsnhFr3N2DsIaUHMsXymMv\u002BAe1jisijdG7hTuopfrIdSaq85vBOqxxnzdejic1r7afGxLoWqKEJ6ItPiU31MUoXZtinmdZ8k7/wlruV/xvfZDSmz95YXyzYsZw1HjQc8LYu0oeJWZCnVEud6YrTJiRTLkF/jp\u002BxVjLHyi/JR7heUhu1KgcHdRK8xx5UZWmXm5PNqkltqkE3gIUrudxQbxe3CHFIs0Br2BCUsiiYZT00sMUnzvOUOGlVZG0dImYElchxblcu4lR/FWG4GKdfrMrs4KCghl/8quWxHWTbZAnp9IVpkV5nmta/zBj/ibukSvn28yr3e/ffjYMd\u002BEhfqwjgf7OConZyGqCRxKVfED5a3/F8A/wKUXZtBUQWfiQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-26T09:35:24.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SupplierMyProductAddItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\Model\\SupplierMyProductAddItemModel.cs",
+              "RelativeDocumentMoniker": "Model\\SupplierMyProductAddItemModel.cs",
+              "ToolTip": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\Model\\SupplierMyProductAddItemModel.cs",
+              "RelativeToolTip": "Model\\SupplierMyProductAddItemModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:47:28.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Supplier.feature",
+              "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\Features\\Supplier.feature",
+              "RelativeDocumentMoniker": "Features\\Supplier.feature",
+              "ToolTip": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\Features\\Supplier.feature",
+              "RelativeToolTip": "Features\\Supplier.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQWSURBVDhPdVRLb1tFFP7mPnztaydObOcJcWolhDRpVURQAyWNWgItsGlZ0YoFEgseKxCCFWv4AWzYIxAgQVRVlSo1En1IoDRtSUEpRFWUd9I4DztOff269r18c\u002B0oSRGf9dkzZ2Y\u002BnznnzBH4P3zRGMARXxtHcbKZdMg1uFjCVCmJr9IFzg/Cdd2Dgm\u002BQnylBTISH0Kydhakco0WKGXKZKFDwEfLOJObLV/BN5h42nXxtzYNa\u002BwVeNBScNRPoMs5BNd6FppwUEM8qQmlz4UYBEVGFGhNCtLo6vW5UutGglNDvS8GvZLFc9mT2BF8zWzFgjiCjvwdXDAc1M9JX36MnQp0ia\u002BfQZrbgWEOf8KuGb7OYikARXYjrIXTrj7DjJHG/VJQyVcGYIvC8McwNFzkbUaCorf5mXIifx\u002BmWE1jMrWAwOoC34\u002BcYJuBu\u002Bk95SiEPkRmslZcZglVYrmcEPgqbGPSf4ui04F/XayHYbhl\u002BNYBOM46j4T6ciL2AOtrLtO\u002BDTp7BkH8IH4c9g\u002BZ9G6IPmkj4FX/ombqE\u002BLT3Q6zk1rBgLeO3jdtYyK9gPrcIh\u002B7NZhe8I8RuQp/msJszxhlbVQ\u002BBLrKpgopquzbXBNoDLUjbGUykJykyjzup\u002BxjfuoclXv8JBJj5ZhYVhatxkIiQpu2UsVFMYWLzDyQLG8iWLY9WOYd0aRu2U0LMiKA7lEDMFwWzXj0NBMmYHOwKepCeyW8Zv216Z9kWr\u002BlwEyPLT6PRgJebjuNi51s42TQIkzGuQep44dsVXCctUwugP9yDT3rex6stwzgUiiOshRHW6xE1GuEXfnQE2vFm6wj3fIAIbTXI4k7LQdXnVwIKIuoAX87hfKUokoV13FwfR4f5FE41vQSfZuB49DnPq8cMwZXVa5hgTKcy0yg5JabdHUfaGcWveavq4c38Iubsv1kSy\u002BvFTVxekQcmIT3ua\u002BiBrugIqkGWz2Hv6tfXf8fY2g0vtsQyZu0ZaqTkpOrhbLmIuOZHlx7lM0sUnILuU3TRHmhFzsnhFr3N2DsIaUHMsXymMv\u002BAe1jisijdG7hTuopfrIdSaq85vBOqxxnzdejic1r7afGxLoWqKEJ6ItPiU31MUoXZtinmdZ8k7/wlruV/xvfZDSmz95YXyzYsZw1HjQc8LYu0oeJWZCnVEud6YrTJiRTLkF/jp\u002BxVjLHyi/JR7heUhu1KgcHdRK8xx5UZWmXm5PNqkltqkE3gIUrudxQbxe3CHFIs0Br2BCUsiiYZT00sMUnzvOUOGlVZG0dImYElchxblcu4lR/FWG4GKdfrMrs4KCghl/8quWxHWTbZAnp9IVpkV5nmta/zBj/ibukSvn28yr3e/ffjYMd\u002BEhfqwjgf7OConZyGqCRxKVfED5a3/F8A/wKUXZtBUQWfiQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-23T09:12:00.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SupplierLogin.feature",
+              "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\Features\\SupplierLogin.feature",
+              "RelativeDocumentMoniker": "Features\\SupplierLogin.feature",
+              "ToolTip": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\Features\\SupplierLogin.feature",
+              "RelativeToolTip": "Features\\SupplierLogin.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQWSURBVDhPdVRLb1tFFP7mPnztaydObOcJcWolhDRpVURQAyWNWgItsGlZ0YoFEgseKxCCFWv4AWzYIxAgQVRVlSo1En1IoDRtSUEpRFWUd9I4DztOff269r18c\u002B0oSRGf9dkzZ2Y\u002BnznnzBH4P3zRGMARXxtHcbKZdMg1uFjCVCmJr9IFzg/Cdd2Dgm\u002BQnylBTISH0Kydhakco0WKGXKZKFDwEfLOJObLV/BN5h42nXxtzYNa\u002BwVeNBScNRPoMs5BNd6FppwUEM8qQmlz4UYBEVGFGhNCtLo6vW5UutGglNDvS8GvZLFc9mT2BF8zWzFgjiCjvwdXDAc1M9JX36MnQp0ia\u002BfQZrbgWEOf8KuGb7OYikARXYjrIXTrj7DjJHG/VJQyVcGYIvC8McwNFzkbUaCorf5mXIifx\u002BmWE1jMrWAwOoC34\u002BcYJuBu\u002Bk95SiEPkRmslZcZglVYrmcEPgqbGPSf4ui04F/XayHYbhl\u002BNYBOM46j4T6ciL2AOtrLtO\u002BDTp7BkH8IH4c9g\u002BZ9G6IPmkj4FX/ombqE\u002BLT3Q6zk1rBgLeO3jdtYyK9gPrcIh\u002B7NZhe8I8RuQp/msJszxhlbVQ\u002BBLrKpgopquzbXBNoDLUjbGUykJykyjzup\u002BxjfuoclXv8JBJj5ZhYVhatxkIiQpu2UsVFMYWLzDyQLG8iWLY9WOYd0aRu2U0LMiKA7lEDMFwWzXj0NBMmYHOwKepCeyW8Zv216Z9kWr\u002BlwEyPLT6PRgJebjuNi51s42TQIkzGuQep44dsVXCctUwugP9yDT3rex6stwzgUiiOshRHW6xE1GuEXfnQE2vFm6wj3fIAIbTXI4k7LQdXnVwIKIuoAX87hfKUokoV13FwfR4f5FE41vQSfZuB49DnPq8cMwZXVa5hgTKcy0yg5JabdHUfaGcWveavq4c38Iubsv1kSy\u002BvFTVxekQcmIT3ua\u002BiBrugIqkGWz2Hv6tfXf8fY2g0vtsQyZu0ZaqTkpOrhbLmIuOZHlx7lM0sUnILuU3TRHmhFzsnhFr3N2DsIaUHMsXymMv\u002BAe1jisijdG7hTuopfrIdSaq85vBOqxxnzdejic1r7afGxLoWqKEJ6ItPiU31MUoXZtinmdZ8k7/wlruV/xvfZDSmz95YXyzYsZw1HjQc8LYu0oeJWZCnVEud6YrTJiRTLkF/jp\u002BxVjLHyi/JR7heUhu1KgcHdRK8xx5UZWmXm5PNqkltqkE3gIUrudxQbxe3CHFIs0Br2BCUsiiYZT00sMUnzvOUOGlVZG0dImYElchxblcu4lR/FWG4GKdfrMrs4KCghl/8quWxHWTbZAnp9IVpkV5nmta/zBj/ibukSvn28yr3e/ffjYMd\u002BEhfqwjgf7OConZyGqCRxKVfED5a3/F8A/wKUXZtBUQWfiQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-24T12:54:52.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "dev.properties",
               "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\AppConfig\\Config\\dev.properties",
               "RelativeDocumentMoniker": "AppConfig\\Config\\dev.properties",
@@ -195,12 +365,11 @@
               "RelativeToolTip": "AppConfig\\Config\\dev.properties",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-24T11:40:48.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T11:40:48.929Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "admin approve.feature",
               "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\Features\\admin approve.feature",
               "RelativeDocumentMoniker": "Features\\admin approve.feature",
@@ -208,12 +377,11 @@
               "RelativeToolTip": "Features\\admin approve.feature",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQWSURBVDhPdVRLb1tFFP7mPnztaydObOcJcWolhDRpVURQAyWNWgItsGlZ0YoFEgseKxCCFWv4AWzYIxAgQVRVlSo1En1IoDRtSUEpRFWUd9I4DztOff269r18c\u002B0oSRGf9dkzZ2Y\u002BnznnzBH4P3zRGMARXxtHcbKZdMg1uFjCVCmJr9IFzg/Cdd2Dgm\u002BQnylBTISH0Kydhakco0WKGXKZKFDwEfLOJObLV/BN5h42nXxtzYNa\u002BwVeNBScNRPoMs5BNd6FppwUEM8qQmlz4UYBEVGFGhNCtLo6vW5UutGglNDvS8GvZLFc9mT2BF8zWzFgjiCjvwdXDAc1M9JX36MnQp0ia\u002BfQZrbgWEOf8KuGb7OYikARXYjrIXTrj7DjJHG/VJQyVcGYIvC8McwNFzkbUaCorf5mXIifx\u002BmWE1jMrWAwOoC34\u002BcYJuBu\u002Bk95SiEPkRmslZcZglVYrmcEPgqbGPSf4ui04F/XayHYbhl\u002BNYBOM46j4T6ciL2AOtrLtO\u002BDTp7BkH8IH4c9g\u002BZ9G6IPmkj4FX/ombqE\u002BLT3Q6zk1rBgLeO3jdtYyK9gPrcIh\u002B7NZhe8I8RuQp/msJszxhlbVQ\u002BBLrKpgopquzbXBNoDLUjbGUykJykyjzup\u002BxjfuoclXv8JBJj5ZhYVhatxkIiQpu2UsVFMYWLzDyQLG8iWLY9WOYd0aRu2U0LMiKA7lEDMFwWzXj0NBMmYHOwKepCeyW8Zv216Z9kWr\u002BlwEyPLT6PRgJebjuNi51s42TQIkzGuQep44dsVXCctUwugP9yDT3rex6stwzgUiiOshRHW6xE1GuEXfnQE2vFm6wj3fIAIbTXI4k7LQdXnVwIKIuoAX87hfKUokoV13FwfR4f5FE41vQSfZuB49DnPq8cMwZXVa5hgTKcy0yg5JabdHUfaGcWveavq4c38Iubsv1kSy\u002BvFTVxekQcmIT3ua\u002BiBrugIqkGWz2Hv6tfXf8fY2g0vtsQyZu0ZaqTkpOrhbLmIuOZHlx7lM0sUnILuU3TRHmhFzsnhFr3N2DsIaUHMsXymMv\u002BAe1jisijdG7hTuopfrIdSaq85vBOqxxnzdejic1r7afGxLoWqKEJ6ItPiU31MUoXZtinmdZ8k7/wlruV/xvfZDSmz95YXyzYsZw1HjQc8LYu0oeJWZCnVEud6YrTJiRTLkF/jp\u002BxVjLHyi/JR7heUhu1KgcHdRK8xx5UZWmXm5PNqkltqkE3gIUrudxQbxe3CHFIs0Br2BCUsiiYZT00sMUnzvOUOGlVZG0dImYElchxblcu4lR/FWG4GKdfrMrs4KCghl/8quWxHWTbZAnp9IVpkV5nmta/zBj/ibukSvn28yr3e/ffjYMd\u002BEhfqwjgf7OConZyGqCRxKVfED5a3/F8A/wKUXZtBUQWfiQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-09-24T12:22:45.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T12:22:45.979Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "env.properties",
               "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\AppConfig\\Env\\env.properties",
               "RelativeDocumentMoniker": "AppConfig\\Env\\env.properties",
@@ -221,12 +389,11 @@
               "RelativeToolTip": "AppConfig\\Env\\env.properties",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-24T11:40:45.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T11:40:45.627Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "stage.properties",
               "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\AppConfig\\Config\\stage.properties",
               "RelativeDocumentMoniker": "AppConfig\\Config\\stage.properties",
@@ -234,12 +401,11 @@
               "RelativeToolTip": "AppConfig\\Config\\stage.properties",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-23T09:12:01.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T09:12:01.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "uat.properties",
               "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\AppConfig\\Config\\uat.properties",
               "RelativeDocumentMoniker": "AppConfig\\Config\\uat.properties",
@@ -247,12 +413,11 @@
               "RelativeToolTip": "AppConfig\\Config\\uat.properties",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-23T09:12:00.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T09:12:00.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\Phazzer Automation\\Support\\Class1.cs",
               "RelativeDocumentMoniker": "Support\\Class1.cs",
@@ -260,12 +425,11 @@
               "RelativeToolTip": "Support\\Class1.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAkwC4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T09:55:11.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T09:55:11.421Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 25,
               "Title": "JSONReader.cs",
               "DocumentMoniker": "C:\\Users\\mshan\\OneDrive - Brain Station 23 PLC\\Learning\\Selenium - CS\\SpecFlowBDDFramework\\Utility\\JSONReader.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\mshan\\OneDrive - Brain Station 23 PLC\\Learning\\Selenium - CS\\SpecFlowBDDFramework\\Utility\\JSONReader.cs",
@@ -276,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
               "Title": "ExtentReport.cs",
               "DocumentMoniker": "C:\\Users\\mshan\\OneDrive - Brain Station 23 PLC\\Learning\\Selenium - CS\\SpecFlowBDDFramework\\Utility\\ExtentReport.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\mshan\\OneDrive - Brain Station 23 PLC\\Learning\\Selenium - CS\\SpecFlowBDDFramework\\Utility\\ExtentReport.cs",
@@ -287,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "dev.properties",
               "DocumentMoniker": "C:\\Users\\mshan\\OneDrive - Brain Station 23 PLC\\Learning\\Selenium - CS\\SpecFlowBDDFramework\\AppConfig\\Prop\\dev.properties",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\mshan\\OneDrive - Brain Station 23 PLC\\Learning\\Selenium - CS\\SpecFlowBDDFramework\\AppConfig\\Prop\\dev.properties",

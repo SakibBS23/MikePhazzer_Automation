@@ -1,0 +1,22 @@
+{
+  "CompanyName": "Brain Station 23",
+  "firstName": "Adam",
+  "lastName": "Zampa",
+  "email": "zampa3@gmail.com",
+  "confirmEmail": "zampa3@gmail.com",
+  "phone": "01947967194",
+  "officePhone": "888999",
+  "userName": "Zampa",
+  "password": "123456",
+  "confirmPassword": "123456",
+  "HearAbout": "Newspaper/Magazine Article",
+  "Country": "Australia",
+  "State": "Queensland",
+  "City": "Queensland",
+  "Address1": "Queensland",
+  "Address2": "Bangali Town",
+  "Zip": "4567",
+  "FaxNumber": "88776655",
+  "AdminEmail": "admin@yourstore.com",
+  "AdminPassword": "123456"
+}

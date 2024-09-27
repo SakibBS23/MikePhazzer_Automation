@@ -2,22 +2,20 @@
 using OpenQA.Selenium.Support.UI;
 using System;
 using System.Collections.Generic;
-using System.Diagnostics.Metrics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace SpecFlowBDDFramework.Pages
 {
-    public class SupplierRegistration
+    public class LawEnforcementRegistration
     {
         private IWebDriver driver;
-
-        public SupplierRegistration(IWebDriver driver)
+        public LawEnforcementRegistration(IWebDriver driver)
         {
             this.driver = driver;
         }
-        IWebElement selectUserType => driver.FindElement(By.XPath("//label[@for='accounttype-60']"));
+        IWebElement selectUserType => driver.FindElement(By.XPath("//label[@for='accounttype-20']"));
         public void forSelectUserType()
         {
             selectUserType.Click();
@@ -77,10 +75,15 @@ namespace SpecFlowBDDFramework.Pages
         {
             txtConfirmPassword.SendKeys(confirmPassword);
         }
-        IWebElement selectorManufactureProduct => driver.FindElement(By.CssSelector("select#SelectedProductOfManufactureIds>option:nth-of-type(5)"));
-        public void forSelectManufacturerProduct()
+        IWebElement SelectInterestProduct => driver.FindElement(By.XPath("//*[@id=\"SelectedProductOfInterestIds\"]/option[5]"));
+        public void forSelectInterestProduct()
         {
-            selectorManufactureProduct.Click();
+            SelectInterestProduct.Click();
+        }
+        IWebElement SelectLawEnforcementType => driver.FindElement(By.XPath("//option[normalize-space(text())='Federal Law Enforcement Agencies']"));
+        public void forSelectLawEnforcementType()
+        {
+            SelectLawEnforcementType.Click();
         }
         IWebElement drpdwnHearAbout => driver.FindElement(By.Id("ReferrerTypeId"));
         public void fordrpdwnHearAbout(string HearAbout)
@@ -143,7 +146,7 @@ namespace SpecFlowBDDFramework.Pages
         }
 
 
-        //Admin Approval.....
+        //Admin Approval...
 
 
         IWebElement btnlogin => driver.FindElement(By.CssSelector("a.ico-login"));
@@ -194,7 +197,7 @@ namespace SpecFlowBDDFramework.Pages
             btnactive.Click();
         }
         IWebElement btnsave => driver.FindElement(By.Name("save"));
-        public void forbtnSaveSupplier()
+        public void forbtnSaveLaw()
         {
             btnsave.Click();
         }
@@ -209,55 +212,58 @@ namespace SpecFlowBDDFramework.Pages
             btnlogoutAdmin.Click();
         }
 
-        // Supplier Login...
 
-        IWebElement btnloginSupplier => driver.FindElement(By.CssSelector("a.ico-login"));
-        public void forbtnSupplierLogin()
-        {
-            btnloginSupplier.Click();
-        }
-        IWebElement txtSupplierEmail => driver.FindElement(By.Id("Email"));
-        public void fortxtSupplierEmail(string email)
-        {
-            txtSupplierEmail.Clear();
-            txtSupplierEmail.SendKeys(email);
-        }
-        IWebElement txtSupplierPass => driver.FindElement(By.Id("Password"));
-        public void fortxtSupplierPassword(string password)
-        {
-            txtSupplierPass.Clear();
-            txtSupplierPass.SendKeys(password);
-        }
-        IWebElement btnSupplierLogin => driver.FindElement(By.XPath("//button[@class='button-1 login-button']"));
-        public void forSupplierLogin()
-        {
-            btnSupplierLogin.Submit();
-        }
-        IWebElement btnSupplierAccount => driver.FindElement(By.XPath("(//a[@class='ico-account'])[1]"));
-        public void forbtnSupplierAccount()
-        {
-            btnSupplierAccount.Click();
-        }
-        IWebElement btnmyproduct => driver.FindElement(By.XPath("//a[normalize-space(text())='Your products']"));
-        public void forbtnmyproduct()
-        {
-            btnmyproduct.Click();
-        }
-        IWebElement btntestlawenforcement => driver.FindElement(By.XPath("(//span[@class='category-name'])[2]"));
-        public void forbtntestlawenforcement()
-        {
-            btntestlawenforcement.Click();
-        }
-        IWebElement btntestLoanerform => driver.FindElement(By.XPath("(//a[@class='button-1'])[3]"));
-        public void forbtntestLoanerform()
-        {
-            btntestLoanerform.Click();
-        }
-        IWebElement btnsupplierlogout => driver.FindElement(By.XPath("(//a[@class='ico-logout'])[1]"));
-        public void forSupplierLogout()
-        {
-            btnsupplierlogout.Click();
-        }
 
+        //Law Enforcement Login...
+
+
+
+        IWebElement btnloginLawEnforcement => driver.FindElement(By.CssSelector("a.ico-login"));
+        public void forbtnLawLogin()
+        {
+            btnloginLawEnforcement.Click();
+        }
+        IWebElement txtLawEmail => driver.FindElement(By.Id("Email"));
+        public void fortxtLawEmail(string email)
+        {
+            txtLawEmail.Clear();
+            txtLawEmail.SendKeys(email);
+        }
+        IWebElement txtLawPass => driver.FindElement(By.Id("Password"));
+        public void fortxtLawPassword(string password)
+        {
+            txtLawPass.Clear();
+            txtLawPass.SendKeys(password);
+        }
+        IWebElement btnLawLogin => driver.FindElement(By.XPath("//button[@class='button-1 login-button']"));
+        public void forLawLogin()
+        {
+            btnLawLogin.Submit();
+        }
+        IWebElement btnLawEnforcement => driver.FindElement(By.XPath("//span[normalize-space(text())='Law Enforcement']"));
+        public void forbtnLawEnforcement()
+        {
+            btnLawEnforcement.Click();
+        }
+        IWebElement btnLoanerForm => driver.FindElement(By.XPath("(//a[@class='button-1'])[3]"));
+        public void forbtnLoanerForm()
+        {
+            btnLoanerForm.Click();
+        }
+        IWebElement againbtnLawEnforcement => driver.FindElement(By.XPath("//span[normalize-space(text())='Law Enforcement']"));
+        public void foragainbtnLawEnforcement()
+        {
+            againbtnLawEnforcement.Click();
+        }
+        IWebElement btnEvaluationForm => driver.FindElement(By.XPath("//a[normalize-space(text())='Evaluation Form']"));
+        public void forbtnEvaluationForm()
+        {
+            btnEvaluationForm.Click();
+        }
+        IWebElement btnlogoutLaw => driver.FindElement(By.XPath("(//a[@class='ico-logout'])[1]"));
+        public void forbtnlogoutLaw()
+        {
+            btnlogoutLaw.Click();
+        }
     }
 }
